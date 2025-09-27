@@ -15,7 +15,7 @@ I'm a backend developer passionate about building scalable systems, automating i
 ---
 
 ## 📈 GitHub Stats
-![Rishabh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RISHABH72git&show_icons=true&count_private=true&hide=stars&include_all_commits=true) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RISHABH72git&layout=compact)
+![Rishabh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RISHABH72git&show_icons=true&include_all_commits=true&count_private=true&hide=issues) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RISHABH72git&layout=compact)
 
 ---
 
