@@ -26,13 +26,13 @@ Currently open to **remote Python backend roles** at startups with strong engine
 `Python` `Java` `SQL` `Bash`
 
 **Frameworks & Libraries**
-`FastAPI` `Django` `Django REST Framework` `Celery` `SQLAlchemy`
+`FastAPI` `Django` `Django REST Framework` `Celery` `SQLAlchemy` `Express` `SpringBoot`
 
 **Databases**
-`PostgreSQL` `MySQL` `Redis` `MongoDB`
+`PostgreSQL` `MySQL` `Redis` `MongoDB` `DynamoDB`
 
 **Cloud & DevOps**
-`AWS` `Docker` `Kubernetes` `GitHub Actions` `Terraform` `Linux`
+`AWS` `Docker` `GitHub Actions` `CloudFormation` `Linux`
 
 **Tools**
 `Git` `Postman` `Pytest` `Alembic` `Nginx`
@@ -43,7 +43,7 @@ Currently open to **remote Python backend roles** at startups with strong engine
 
 <div align="center">
 
-![Rishabh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RISHABH72git&show_icons=true&include_all_commits=true&count_private=true&hide=issues&theme=default&hide_border=true&title_color=0A66C2&icon_color=0A66C2)
+![Rishabh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RISHABH72git&show_icons=true&include_all_commits=true&count_private=true&hide=issues)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RISHABH72git&layout=compact&hide_border=true&title_color=0A66C2)
 
@@ -55,9 +55,8 @@ Currently open to **remote Python backend roles** at startups with strong engine
 
 ## What I'm Working On
 
-- 🔧 Building high-throughput REST APIs with **FastAPI + async SQLAlchemy**
+- 🔧 Building high-throughput REST APIs with **FastAPI + Mongo**
 - ☁️ Automating cloud infrastructure with **Cloudformation & AWS**
-- 📖 Contributing to open-source Python tooling
 - 🎯 Goal: Secure a new backend role by **October 2025**
 
 ---
