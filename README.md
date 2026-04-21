@@ -43,14 +43,13 @@ Currently open to **remote Python backend roles** at startups with strong engine
 
 <div align="center">
 
-![Rishabh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RISHABH72git&show_icons=true&include_all_commits=true&count_private=true&hide=issues)
+[![Rishabh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RISHABH72git&show_icons=true&include_all_commits=true&count_private=true&hide=issues)](https://github.com/RISHABH72git)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RISHABH72git&layout=compact&hide_border=true&title_color=0A66C2)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RISHABH72git&layout=compact&hide_border=true&title_color=0A66C2&cache_seconds=1800)](https://github.com/RISHABH72git)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=RISHABH72git&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&ring=0A66C2&fire=0A66C2&currStreakLabel=0A66C2)
 
 </div>
-
 ---
 
 ## What I'm Working On
